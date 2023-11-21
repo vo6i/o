@@ -1,0 +1,23 @@
+{
+  "name": "o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vo6i/o.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vo6i/o/issues"
+  },
+  "homepage": "https://github.com/vo6i/o#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
